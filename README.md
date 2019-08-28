@@ -1,3 +1,3 @@
-# Neural Data Oriented Parsing (ndop)
+# Neural Data-Oriented Parsing (ndop)
 
 
